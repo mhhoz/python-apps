@@ -3,7 +3,7 @@ from datetime import datetime
 
 class Chatbot:
     def __init__(self):
-        self.name = "WeatherBot"
+        self.name = "Charles"
         self.greetings = [
             "Hello! Hope you're having a great day!", 
             "Hi there! Wonderful to see you!",
